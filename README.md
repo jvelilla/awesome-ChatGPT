@@ -16,3 +16,6 @@ https://twitter.com/svpino/status/1611357154514186241?t=galXkD73P0Av-PpY1nFULw&s
 
 ## Free Assistant
 https://twitter.com/jspeiser/status/1609912415289761795?t=tACJPsJ9SAjJ9-ZerNxtPQ&s=08
+
+## ChatGPT history
+https://blog.bytebytego.com/i/91155806/chatgpt-history

@@ -1,4 +1,4 @@
-"# awesome-ChatGTP" 
+"# awesome-ChatGPT" 
 
 
 ## Awesome ChatGPT
@@ -7,7 +7,7 @@ https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
 
 
 
-## Building a Virtual Machine insude ChatGPT
+## Building a Virtual Machine inside ChatGPT
 https://www.engraved.blog/building-a-virtual-machine-inside/
 
 ## Help for Developers

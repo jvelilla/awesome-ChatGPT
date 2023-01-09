@@ -7,8 +7,6 @@ https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
 
 
 
-## Building a Virtual Machine inside ChatGPT
-https://www.engraved.blog/building-a-virtual-machine-inside/
 
 ## Help for Developers
 https://twitter.com/svpino/status/1611357154514186241?t=galXkD73P0Av-PpY1nFULw&s=08
@@ -24,3 +22,7 @@ https://blog.bytebytego.com/i/91155806/chatgpt-history
 
 ## Articles about ChatGPT
 [What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software](https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext), Bertrand Meyer
+
+[Design a new programming Language](https://judehunter.dev/blog/chatgpt-helped-me-design-a-brand-new-programming-language)
+
+[Building a Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)

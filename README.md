@@ -26,3 +26,5 @@ https://blog.bytebytego.com/i/91155806/chatgpt-history
 [Design a new programming Language](https://judehunter.dev/blog/chatgpt-helped-me-design-a-brand-new-programming-language)
 
 [Building a Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
+
+[Writing a tokekizer](https://tagide.com/education/writing-a-tokenizer-with-chatgpt/) 

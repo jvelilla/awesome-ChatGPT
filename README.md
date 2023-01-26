@@ -11,6 +11,7 @@ https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
 ## Help for Developers
 https://twitter.com/svpino/status/1611357154514186241?t=galXkD73P0Av-PpY1nFULw&s=08
 https://www.linkedin.com/posts/svpino_9-ways-chatgpt-saves-me-hours-of-work-every-activity-7017126154633400320-idBU?utm_source=share&utm_medium=member_desktop
+https://www.youtube.com/watch?v=sTeoEFzVNSc&t=1411s
 
 
 ## Free Assistant
@@ -28,3 +29,8 @@ https://blog.bytebytego.com/i/91155806/chatgpt-history
 [Building a Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 
 [Writing a tokekizer](https://tagide.com/education/writing-a-tokenizer-with-chatgpt/) 
+
+# AI Tools
+[Midjourney AI Art](https://docs.midjourney.com/)
+[Codedam AI](https://codedamn.com/)
+[Futureedia](https://www.futurepedia.io/?ref=FutureTools.io)

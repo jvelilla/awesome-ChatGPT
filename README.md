@@ -3,7 +3,7 @@
 
 ## Awesome ChatGPT
 This is a collection of prompt examples to be used with the ChatGPT model.
-https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
+https://github.com/f/awesome-chatgpt-prompts
 
 
 

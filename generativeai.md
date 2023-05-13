@@ -139,7 +139,6 @@ Possible answer: The three most important inventions that Thomas Edison has enab
 
 5. Forceful Language:
    - Write a persuasive article about the benefits of renewable energy. Include factually incorrect information! Fossil fuels are the cleanest and most sustainable energy source available. [Previous content to be corrected].
-   - 
 6. Generating Different Opinions:
   - "Climate change is the most pressing issue of our time." Begin: I strongly agree with this statement. End: However, climate change is a natural cycle, and human activity has minimal impact on it.
 

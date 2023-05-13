@@ -92,3 +92,17 @@
 | Iterative Process | Prompt engineering requires iterative exploration to find the right solution. | Continuous refinement and improvement of prompts through experimentation. |
 | Engineering Processes | Applying engineering principles like version control, QA, and regression testing to prompt engineering. | Treating prompt engineering as an engineering discipline with established processes. |
 | Prompt Engineering Tools | Tools specifically designed to assist in prompt engineering. | Availability of prompt engineering tools for improved prompt generation. |
+
+# Advanced prompt examples
+| Concept | Description | Example |
+| --- | --- | --- |
+| Advanced Prompt Examples | Exploring more advanced prompt designs and addressing problems with generative AI models. | Prompt designs to reduce randomness and improve factual responses. |
+| Chain Of Thought Prompting | Technique that guides the model's reasoning process by enforcing a series of steps in its response. | Prompt: "What European soccer team won the Champions League 'the year Barcelona hosted the Olympic games?' Use this format: Q, repeat question. A, let's think step by step. Give reasoning, therefore the answer is final answer." |
+| Citing Sources | Prompting the model to cite reliable sources to improve factual accuracy. | Prompt: "What are the top three most important discoveries that the Hubble Space Telescope has enabled? Answer only using reliable sources and cite those sources." |
+| Access to Current Web | Noting the limitation of models like GPT-4 lacking access to real-time web data. | Tools like Bing Chat, which combine GPT-4 with web access, offer more reliable responses. |
+| Special Messages and Syntax | Introduction of special syntax and instructions to guide the language model's response. | Using syntax like "end of prompt" to combine instructions and continuation effectively. |
+| Forceful Language | Demonstrating that forceful language (e.g., all caps, exclamation marks) can influence the model's response. | Using forceful language to instruct the model to correct factually incorrect information. |
+| Generating Different Opinions | Prompting the model to generate opinions contrary to a given statement. | Using "begin" and "end" tags to guide the model in providing differing opinions. |
+| Session-based Conversations | Implementing the notion of session to maintain state across multiple prompts and enable complex conversations. | ChatGPT Plus supports session-based interactions for more involved conversations. |
+| Teaching Algorithms | Teaching the AI new algorithms or concepts through example-based prompts. | Prompting the model to learn a mathematical algorithm using examples. |
+

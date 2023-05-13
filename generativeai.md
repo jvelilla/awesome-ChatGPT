@@ -58,3 +58,11 @@
 | Question plus Instructions | A type of prompt that includes a question and instructions. The language model retrieves relevant information from its training data and responds to the specific instructions in the prompt. | "How should I write my college admission essay? Give me suggestions about the different sections I should include, what tone I should use, and what expressions I should avoid." |
 | Instructions plus Input Data | A type of prompt that includes instructions and input data. The language model personalizes the response to the input data and may use zero-shot learning to incorporate new information that was not initially trained on. | "Given the following information about me, write a four-paragraph college essay. 'I'm originally from Barcelona, Spain. While my childhood had different traumatic events such as the death of my father when I was only six, I still think I had a quite a happy childhood.'" |
 | Question plus Examples | A type of prompt that includes a question and examples. The language model can turn into a recommendation engine by using input examples. | "Here are some examples of music I really like. Radiohead, Lana del Rey, Rosalia, Bon Iver, and Andrew Bird. I do not like Coldplay, Taylor Swift or Bruno Mars. What other music would you recommend?" |
+
+## Prompt Templates
+1.  Question plus Instructions Prompt: "How should I \[task/subject\]? Give me suggestions about \[specific aspects or requirements\]."
+    
+2.  Instructions plus Input Data Prompt: "Given the following information about \[person/subject\], \[instruction\]. \[Input data\]."
+    
+3.  Question plus Examples Prompt: "Here are some examples of \[topic/subject\] I really like: \[example list\]. I do not like \[disliked examples\]. What \[related recommendations/information\] would you recommend?"
+

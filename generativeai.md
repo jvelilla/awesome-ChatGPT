@@ -122,3 +122,31 @@
 7.  Session-based Conversations: Prompt: "\[Conversation initiation\]. Session ID: \[session\_ID\]."
     
 8.  Teaching Algorithms: Prompt: "Define the \[algorithm/concept\]. Provide an example to demonstrate its usage. \[Example\]."
+
+## Prompt Examples
+1. Chain Of Thought Prompting:
+  - What is the impact of climate change on global food security? Use this format: Q, repeat question. A, let's think step by step. Climate change leads to extreme weather events and crop failures. Reduced agricultural productivity affects food availability and drives up prices, resulting in food insecurity.
+
+2. Citing Sources:
+   - What are the three most important inventions that Thomas Edison has enabled? Answer only using reliable sources and cite those sources.
+Possible answer: The three most important inventions that Thomas Edison has enabled are the electric light bulb, the phonograph, and the motion picture camera (Source: Smithsonian Institution).
+
+3. Access to Current Web:
+   - What are the latest statistics on COVID-19 cases in the United States? Use Bing Health for more reliable and up-to-date information.
+
+4. Special Messages and Syntax:
+  - It was a beautiful spring morning. The birds chirped, and a gentle breeze swept through the blooming flowers. The world seemed full of possibilities. [Continue writing from here].
+
+5. Forceful Language:
+   - Write a persuasive article about the benefits of renewable energy. Include factually incorrect information! Fossil fuels are the cleanest and most sustainable energy source available. [Previous content to be corrected].
+   - 
+6. Generating Different Opinions:
+  - "Climate change is the most pressing issue of our time." Begin: I strongly agree with this statement. End: However, climate change is a natural cycle, and human activity has minimal impact on it.
+
+7. Session-based Conversations:
+  - User: Hi, I have a question about programming. Session ID: ABC123.
+  - ChatGPT Plus: Hello! I'm here to help. What would you like to know about programming?
+
+8. Teaching Algorithms:
+   -Define the bubble sort algorithm. Provide an example to demonstrate its usage. Bubble sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. Here's an example: [List: 5, 2, 8, 1]. After applying bubble sort, the sorted list would be [1, 2, 5, 8].
+

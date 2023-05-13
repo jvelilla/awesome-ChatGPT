@@ -23,7 +23,7 @@
 | Large Language Model Prompt | The input to large language models like GPT-4 and ChatGPT. The prompt can vary from simple questions to complex problems with inserted data. It can also be vague statements or high-level tasks for generative task-oriented models. | "Who is the president of the US?" or "Tell me a joke, I'm feeling down today." or "I need to organize a one-week trip to Greece." |
 | Prompt Design | The process of structuring and formulating a prompt to maximize the desired outcome from the generative AI model. Understanding the model's limitations and utilizing effective prompt elements can lead to better results and minimize issues like hallucination. | Designing a prompt with instructions, questions, input data, and examples to guide the model's response and generate valuable knowledge. |
 
-## Prompt Examples
+## Prompt Templates
 1.  Instruction Prompt: "Write a \[number\] paragraph long \[topic\] discussing \[specific aspects\]."
     
 2.  Question Prompt: "What are some \[topic-related\] examples that \[describe desired information\]?"
@@ -32,3 +32,23 @@
     
 4.  Example Prompt: "Based on \[person's preferences/interests\], \[provide context or criteria\], \[generate output\]."
 
+## Prompt Examples
+1. Instruction Prompt:
+
+    Write a 2-paragraph long essay discussing the benefits of renewable energy sources.
+    Write a 4-paragraph long story describing a fictional character and their journey of self-discovery.
+
+2. Question Prompt:
+
+    What are some real-life examples that illustrate the concept of supply and demand?
+    What are some historical events that shaped the political landscape of the United States?
+
+3. Input Data Prompt:
+
+    John is a 35-year-old software engineer from California. He enjoys hiking, playing the guitar, and traveling. Write a 3-paragraph travel itinerary for John's upcoming trip to Europe.
+    Emily is a 45-year-old lawyer from New York. She is passionate about human rights and volunteers at a local non-profit organization. Write a 2-paragraph speech highlighting Emily's dedication to social justice.
+
+4. Example Prompt:
+
+    Based on Sarah's love for cooking and her dietary restrictions, suggest some healthy and vegan recipes for her upcoming dinner party.
+    Considering David's interest in sports and his preference for outdoor activities, recommend some fitness routines that align with his lifestyle.

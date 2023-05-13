@@ -80,3 +80,15 @@
 3. Question plus Examples Prompt:
    - Here are some examples of movies I really like: "Inception," "The Shawshank Redemption," and "Pulp Fiction." I do not like romantic comedies. What other mind-bending thrillers would you recommend?
    - Here are some examples of my favorite travel destinations: Paris, Tokyo, and New York City. I do not like crowded tourist spots. What off-the-beaten-path locations or hidden gems would you recommend for my next trip?
+
+# What is prompt engineering?
+
+| Concept | Description | Example |
+| --- | --- | --- |
+| Prompt Engineering | Discipline focused on designing optimal prompts for generative models with a specific goal. | Prompt engineering is rapidly growing and may replace other aspects of machine learning. |
+| Domain Understanding | Knowledge of the domain to incorporate the goal into the prompt design. | Understanding desired outcomes and determining prompt structure accordingly. |
+| Understanding AI Model | Awareness of how different models respond to various prompts. | Different models may have varying responses to the same type of prompt. |
+| Programmatic Prompt Generation | Creating prompt templates that can be programmatically modified based on context or datasets. | Generating college essay prompts using a database of user information. |
+| Iterative Process | Prompt engineering requires iterative exploration to find the right solution. | Continuous refinement and improvement of prompts through experimentation. |
+| Engineering Processes | Applying engineering principles like version control, QA, and regression testing to prompt engineering. | Treating prompt engineering as an engineering discipline with established processes. |
+| Prompt Engineering Tools | Tools specifically designed to assist in prompt engineering. | Availability of prompt engineering tools for improved prompt generation. |

@@ -66,3 +66,17 @@
     
 3.  Question plus Examples Prompt: "Here are some examples of \[topic/subject\] I really like: \[example list\]. I do not like \[disliked examples\]. What \[related recommendations/information\] would you recommend?"
 
+## Prompt Examples
+
+
+1. Question plus Instructions Prompt:
+   - How should I decorate my living room? Give me suggestions about furniture arrangement and color schemes.
+   - How should I approach learning a new programming language? Give me suggestions about online resources and study techniques.
+
+2. Instructions plus Input Data Prompt:
+   - Given the following information about Mary, write a 2-paragraph biography. Include her age, occupation, hobbies, and notable achievements. Mary is a 45-year-old entrepreneur who founded a successful tech startup and enjoys painting in her free time.
+   - Given the following information about a fictional character, write a 3-paragraph character analysis. Include their name, background, personality traits, and their role in the story. The character's name is Alex, a 30-year-old detective with a troubled past, known for their sharp intellect and relentless pursuit of justice.
+
+3. Question plus Examples Prompt:
+   - Here are some examples of movies I really like: "Inception," "The Shawshank Redemption," and "Pulp Fiction." I do not like romantic comedies. What other mind-bending thrillers would you recommend?
+   - Here are some examples of my favorite travel destinations: Paris, Tokyo, and New York City. I do not like crowded tourist spots. What off-the-beaten-path locations or hidden gems would you recommend for my next trip?

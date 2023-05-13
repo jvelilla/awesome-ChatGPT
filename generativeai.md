@@ -22,3 +22,13 @@
 | CVS File Prompt | The input to a generative AI model that includes raw data in a CSV file format. The model can utilize this additional data for generating more contextually relevant outputs. | Using a CSV file with raw data as part of the prompt input. |
 | Large Language Model Prompt | The input to large language models like GPT-4 and ChatGPT. The prompt can vary from simple questions to complex problems with inserted data. It can also be vague statements or high-level tasks for generative task-oriented models. | "Who is the president of the US?" or "Tell me a joke, I'm feeling down today." or "I need to organize a one-week trip to Greece." |
 | Prompt Design | The process of structuring and formulating a prompt to maximize the desired outcome from the generative AI model. Understanding the model's limitations and utilizing effective prompt elements can lead to better results and minimize issues like hallucination. | Designing a prompt with instructions, questions, input data, and examples to guide the model's response and generate valuable knowledge. |
+
+## Prompt Examples
+1.  Instruction Prompt: "Write a \[number\] paragraph long \[topic\] discussing \[specific aspects\]."
+    
+2.  Question Prompt: "What are some \[topic-related\] examples that \[describe desired information\]?"
+    
+3.  Input Data Prompt: "\[Person/Entity\] is a \[age/occupation/nationality\] who \[additional details\]. Write a \[number\] paragraph \[type of output\] based on this information."
+    
+4.  Example Prompt: "Based on \[person's preferences/interests\], \[provide context or criteria\], \[generate output\]."
+

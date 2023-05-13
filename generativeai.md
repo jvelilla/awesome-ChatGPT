@@ -38,13 +38,13 @@
    b. Write a 4-paragraph long story describing a fictional character and their journey of self-discovery.
 
 2. Question Prompt:
-   a. What are some real-life examples that illustrate the concept of supply and demand?
-   b. What are some historical events that shaped the political landscape of the United States?
+   - a. What are some real-life examples that illustrate the concept of supply and demand?
+   - b. What are some historical events that shaped the political landscape of the United States?
 
 3. Input Data Prompt:
-   a. John is a 35-year-old software engineer from California. He enjoys hiking, playing the guitar, and traveling. Write a 3-paragraph travel itinerary for John's upcoming trip to Europe.
-   b. Emily is a 45-year-old lawyer from New York. She is passionate about human rights and volunteers at a local non-profit organization. Write a 2-paragraph speech highlighting Emily's dedication to social justice.
+   - a. John is a 35-year-old software engineer from California. He enjoys hiking, playing the guitar, and traveling. Write a 3-paragraph travel itinerary for John's upcoming trip to Europe.
+   - b. Emily is a 45-year-old lawyer from New York. She is passionate about human rights and volunteers at a local non-profit organization. Write a 2-paragraph speech highlighting Emily's dedication to social justice.
 
 4. Example Prompt:
-   a. Based on Sarah's love for cooking and her dietary restrictions, suggest some healthy and vegan recipes for her upcoming dinner party.
-   b. Considering David's interest in sports and his preference for outdoor activities, recommend some fitness routines that align with his lifestyle.
+   - a. Based on Sarah's love for cooking and her dietary restrictions, suggest some healthy and vegan recipes for her upcoming dinner party.
+   - b. Considering David's interest in sports and his preference for outdoor activities, recommend some fitness routines that align with his lifestyle.

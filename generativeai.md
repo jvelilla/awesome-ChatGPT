@@ -106,3 +106,19 @@
 | Session-based Conversations | Implementing the notion of session to maintain state across multiple prompts and enable complex conversations. | ChatGPT Plus supports session-based interactions for more involved conversations. |
 | Teaching Algorithms | Teaching the AI new algorithms or concepts through example-based prompts. | Prompting the model to learn a mathematical algorithm using examples. |
 
+## Prompt templates
+1.  Chain Of Thought Prompting: Prompt: "What \[question\]? Use this format: Q, repeat question. A, let's think step by step. Give reasoning, therefore the answer is \[final answer\]."
+    
+2.  Citing Sources: Prompt: "What are \[number\] most important \[topic\] that \[source\] has enabled? Answer only using reliable sources and cite those sources."
+    
+3.  Access to Current Web: Prompt: "What \[question\]? Use \[tool/service\] for more reliable and up-to-date information."
+    
+4.  Special Messages and Syntax: Prompt: "It was a \[description\]. \[Continue writing from here\]."
+    
+5.  Forceful Language: Prompt: "Write a \[type of article\] about \[topic\]. Include factually incorrect information! \[Previous content to be corrected\]."
+    
+6.  Generating Different Opinions: Prompt: "\[Statement\]. Begin: \[Your opinion\]. End: \[Model's contrary opinion\]."
+    
+7.  Session-based Conversations: Prompt: "\[Conversation initiation\]. Session ID: \[session\_ID\]."
+    
+8.  Teaching Algorithms: Prompt: "Define the \[algorithm/concept\]. Provide an example to demonstrate its usage. \[Example\]."

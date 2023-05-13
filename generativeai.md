@@ -48,3 +48,13 @@
 4. Example Prompt:
    - Based on Sarah's love for cooking and her dietary restrictions, suggest some healthy and vegan recipes for her upcoming dinner party.
    - Considering David's interest in sports and his preference for outdoor activities, recommend some fitness routines that align with his lifestyle.
+
+
+# Basic Prompt Examples
+
+| Concept | Description | Example |
+| --- | --- | --- |
+| Prompt | A prompt can include instructions, questions, input data, and examples to obtain a response from a language model. Either the question or instruction must be present to obtain a result. Everything else is optional. | "How should I write my college admission essay? Give me suggestions about the different sections I should include, what tone I should use, and what expressions I should avoid." |
+| Question plus Instructions | A type of prompt that includes a question and instructions. The language model retrieves relevant information from its training data and responds to the specific instructions in the prompt. | "How should I write my college admission essay? Give me suggestions about the different sections I should include, what tone I should use, and what expressions I should avoid." |
+| Instructions plus Input Data | A type of prompt that includes instructions and input data. The language model personalizes the response to the input data and may use zero-shot learning to incorporate new information that was not initially trained on. | "Given the following information about me, write a four-paragraph college essay. 'I'm originally from Barcelona, Spain. While my childhood had different traumatic events such as the death of my father when I was only six, I still think I had a quite a happy childhood.'" |
+| Question plus Examples | A type of prompt that includes a question and examples. The language model can turn into a recommendation engine by using input examples. | "Here are some examples of music I really like. Radiohead, Lana del Rey, Rosalia, Bon Iver, and Andrew Bird. I do not like Coldplay, Taylor Swift or Bruno Mars. What other music would you recommend?" |

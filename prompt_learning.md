@@ -25,5 +25,20 @@ Prompt:
 Summarize the book [insert book] by the author [insert author] and give me
 a list of the most important learnings and insights.
 
+5. Get feedback from history's greatest minds.
+
+Prompt: Assume you are [insert famous person e.g Steve Jobs]. Read my argument
+below and give me feedback as if you were [insert person again]
+
+[insert your argument]
+
+
+6. Enhace your problem solving skills
+
+Prompt:
+Your role is that of a problem solver. Give me a step-by-step guide to solving
+[insert your problem]
+
+
 
 

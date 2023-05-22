@@ -40,5 +40,31 @@ Your role is that of a problem solver. Give me a step-by-step guide to solving
 [insert your problem]
 
 
+7. Generate new ideas and overcome writers block:
+
+Prompt:
+Sample prompt:
+I am writing a blog post about [insert topic]. Give me an outline for this post with 10
+bullet points. Also give me 5 options for a catchy headline.
+
+8. Summarize long texts and accelerate your learning
+
+Prompt:
+Summarize the text below into 500 words or less.
+Create sections for each important point with a brief summary of that point.
+
+[insert text]
+
+9. Use stores and metaphors to aid your memory.
+
+Prompt:
+I am currenly learning about [insert topic]. Convert the key lessons
+from this topic into engaging stories and metaphors to aid my momorization.
+
+10. Strengthen your learning by testing yourself
+
+Prompt:
+I am currently learning about [insert topic]. Ask me a series of questions that will
+tet my knowledge. Identify knowledge gaps in my answers and give me better answers to fill those gaps
 
 

@@ -36,7 +36,7 @@ ________
 
 Prompt:
 
-"I want to learn [insert skill]. Generate a 30 day plan that will help a beginner like me learn the skill from scratch."
+"I want to learn / get better at [insert skill]. Generate a 30 day plan that will help a beginner like me learn the skill from scratch."
 ________
 
 6. Create any form of text or content
